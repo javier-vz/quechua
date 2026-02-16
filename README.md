@@ -2,6 +2,7 @@
 
 # Boric Font Ayllum
 <img src="https://raw.githubusercontent.com/javier-vz/quechua/main/boric.jpg" width="300">
+
 ```
       [ Luis Javier ] ═══ [ María Soledad ]
                        │
