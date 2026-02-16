@@ -2,7 +2,7 @@
 
 # Boric Font Ayllum
 ```
-[ Luis Javier ] ═══ [ María Soledad ]
+      [ Luis Javier ] ═══ [ María Soledad ]
                        │
       ┌────────────────┼──────────────────────────┐
       │                │                          │
