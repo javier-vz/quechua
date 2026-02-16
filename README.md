@@ -1,8 +1,9 @@
 # quechua
 
 # Boric Font Ayllum
+--> Fotomantan tapun Gabrielqa, warmi churinqa, taytanqa. 
+
 <img src="https://raw.githubusercontent.com/javier-vz/quechua/main/boric.jpg" width="300">
-Fotomantan tapun Gabrielqa, warmi churinqa, taytanqa. 
 
 ```
       [ Luis Javier ] ═══ [ María Soledad ]
