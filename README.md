@@ -1,7 +1,7 @@
 # quechua
 
 # Boric Font Ayllum
---> Fotom rikuchin Gabrielqa, Gabrielapa warmi churinqa, Gabrielpa taytanqa. 
+--> Fotom rikuchin Gabrielqa, Gabrielapa warmi churinqawan Gabrielpa taytanqa. 
 
 <img src="https://raw.githubusercontent.com/javier-vz/quechua/main/boric.jpg" width="300">
 
