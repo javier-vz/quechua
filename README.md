@@ -1,7 +1,7 @@
 # quechua
 
 # Boric Font Ayllum
---> Fotomantan tapun Gabrielqa, warmi churinqa, taytanqa. 
+--> Fotomantan tapun Gabrielqa, Gabrielapa warmi churinqa, Gabrielpa taytanqa. 
 
 <img src="https://raw.githubusercontent.com/javier-vz/quechua/main/boric.jpg" width="300">
 
