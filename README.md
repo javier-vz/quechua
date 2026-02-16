@@ -6,7 +6,7 @@
                        │
       ┌────────────────┼──────────────────────────┐
       │                │                          │
- [ Simón ]      <img src="https://cdn2.opendemocracy.net/media/images/GettyImages-2246436113.max-1520x1008.jpg" width="30"> **[Gabriel]** ═══ [ Paula ]     [ Tomás ]
+ [ Simón ]        [Gabriel] ═══ [ Paula ]     [ Tomás ]
                              │   
                              │
                    ┌─────────┴─────────┐
