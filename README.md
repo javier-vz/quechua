@@ -1,18 +1,18 @@
 # quechua
 
 # Boric Font Ayllum
-
+```
 [ Luis Javier ] ═══ [ María Soledad ]
                        │
-      ┌────────────────┼────────────────┐
-      │                │                │
+      ┌────────────────┼──────────────────────────┐
+      │                │                          │
  [ Simón ]      [ Gabriel ] ═══ [ Paula ]     [ Tomás ]
                              │   
-                           │
-                 ┌─────────┴─────────┐
-                 │                   │
-            [ Violeta ]          [ Brownie ]
-
+                             │
+                   ┌─────────┴─────────┐
+                   │                   │
+              [ Violeta ]          [ Brownie ]
+```
 
 Payqa Gabrielmi, Punta Arenasmantan. Barrio Yungay kikllupim, Santiagio Centropim tiyan. Payqa Chilepa presidentem. Payqa tawa chunka watayuqmi.Payqa Paulam. Paulaqa Gabrielpa warminmi. Gabrielqa Paulawan huk warmi warmayuqmi. Violetaqa Gabrielpa Paulapa warmanmi. Simónwan Tomásqa Gabrielpa wawqinkunam. 
 Kayqa Gabrielpa allqunmi. 
