@@ -19,7 +19,7 @@
   ║<br>
   ┌──────────────────╫──────────────────┐<br>
   │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ║ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; │<br>
-  [ Simón ] &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/javier-vz/quechua/main/boric.jpg" width="40" valign="middle"> <b>Gabriel</b> ═══ <b>Paula</b> &nbsp;&nbsp; [ Tomás ]<br>
+  [ Simón ] &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/javier-vz/quechua/main/boric.jpg" width="80" valign="middle"> <b>Gabriel</b> ═══ <b>Paula</b> &nbsp;&nbsp; [ Tomás ]<br>
   ║<br>
   ┌─────────╨─────────┐<br>
   │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; │<br>
